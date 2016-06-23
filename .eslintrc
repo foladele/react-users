@@ -1,0 +1,22 @@
+{
+  "extends": "rackt",
+  "globals": {
+    "__DEV__": true
+  },
+  "rules": {
+    "react/jsx-uses-react": 1,
+    "react/jsx-no-undef": 2,
+    "react/wrap-multilines": 2,
+    "eol-last": 1,
+    "no-unused-vars": 1,
+    "no-unused-vars": 1,
+    "object-curly-spacing": 1,
+    "Parsing error": 1,
+    "indent": 1,
+    "no-mixed-spaces-and-tabs": 1,
+    "array-bracket-spacing": 1
+  },
+  "plugins": [
+    "react"
+  ]
+}
